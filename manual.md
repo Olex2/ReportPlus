@@ -15,4 +15,5 @@ Installation
 --------------
 This module is available from the 'Extension Modules' tool in the Start tab of Olex2. You must provide your e-mail address and will be able to evaluate the module for 30 days. During the testing phase of any of our modules, you can update the module repeatedly. After the end of testing, please get in touch with us (support@olexsys.org) if you wish to continue using the module.
 
- 
+GUI
+---
