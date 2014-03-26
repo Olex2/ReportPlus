@@ -1,0 +1,15 @@
+
+#\begin{figure}[htbp] \s* \centering \s* (.*?) \end{figure} ::x:: \begin{wrapfigure}{r}{0.48\textwidth}\vspace{-15pt} \1 \\end{wrapfig}
+
+#BOOK Details
+bookauthor=Horst Puschmann
+booktitle=ReportPlus
+booksubtitle=Manual
+book_use_fontspec=Cambria
+book_linespacing=1.2
+
+#PANDOC command
+pandoc_cmd=pandoc -o %s -f markdown -t latex %s
+
+#Book Chapters
+Manual
