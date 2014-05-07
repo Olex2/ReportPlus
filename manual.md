@@ -17,3 +17,6 @@ This module is available from the 'Extension Modules' tool in the Start tab of O
 
 GUI
 ---
+Like the module itself, the GUI is currently under development. Please make sure to obtain the latest manual frequently.
+
+	![Screenshot of the GUI](/images/screenshot.png)
