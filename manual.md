@@ -19,4 +19,4 @@ GUI
 ---
 Like the module itself, the GUI is currently under development. Please make sure to obtain the latest manual frequently.
 
-	![Screenshot of the GUI](/images/screenshot.png)
+	![Screenshot of the GUI](/images/screenshot.png?raw=true)
